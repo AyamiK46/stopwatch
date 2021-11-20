@@ -1,11 +1,13 @@
 
 
 h3{
-    margin-left:10px;
+    font-size: 20px;
+    margin-left:20px;
+
 }
 
-.display{
-    font-size: 30px;
+#display{
+    font-size: 40px;
     margin-left:10px;
 }
 
